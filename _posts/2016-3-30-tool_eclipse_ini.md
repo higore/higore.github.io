@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 이클립스 ini 설정
+tag : tool
 ---
 
 ### 내용
