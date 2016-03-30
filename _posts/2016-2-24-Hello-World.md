@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안녕하세요
-tags: etc
+tags: [etc]
 ---
 
 
